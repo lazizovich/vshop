@@ -544,10 +544,34 @@ body {
 .ul1{
   width: 200px;
 }
-.elemetn_section{
-  width: 100px;
+.header1{
   margin: auto;
+  max-width: 1140px;
+  display: flex;
+  gap: 30px;
+}
+.motto_baner_image img{
+  border-radius: 10px;
+}
+.list1{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+.list2{
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 500;
+  }
+  .list3{
+    text-decoration: underline; 
+}
+.row2{
   display: inline-flex;
-  align-items: center;
+  text-align: center;
   justify-content: center;
+  padding: 10px 0;
+}
+.widget_item1{
+  width: 100px;
 }
