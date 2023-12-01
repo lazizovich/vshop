@@ -161,6 +161,7 @@ ul.menu {
   color: var(--dark);
   font-weight: 900;
   border-top: 1px solid #EAEAEA;
+  padding: 20px 0 0 0;
 }
 ul.menu li a {
   padding: 0 0 10px 3px;
